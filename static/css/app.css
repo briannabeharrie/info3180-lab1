@@ -1,7 +1,18 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  font-size: 14px;
-  line-height: 1.5;
+  background-color: lavender; /* Set background color to light purple (lavender) */
+  font-family: Arial, sans-serif; /* Set font family */
+}
+
+h1 {
+  text-align: center; /* Align heading to center */
+  font-size: 24px; /* Set font size */
+  color: #333; /* Set font color */
+}
+
+p {
+  font-style: italic; /* Set paragraph text to italic */
+  font-size: 16px; /* Set font size */
+  color: #555; /* Set font color */
 }
 
 .container {
